@@ -12,10 +12,10 @@ Splash              |  First Page                 | Next Page
 :-------------------------:|:-------------------------:|:---------------------------:
 ![ss3](https://user-images.githubusercontent.com/40074224/138214963-a9219562-8c52-429d-82d7-d8fcbfe46063.jpg)  |  ![ss2](https://user-images.githubusercontent.com/40074224/138214972-ff8dd696-ed2b-42b0-b642-057a9cf16cfa.jpg) |![ss1](https://user-images.githubusercontent.com/40074224/138214970-0cd81bec-cb2f-4f6b-9b77-73ed0c0165ea.jpg)
 
-
+Apk
 ------------------------------------------------------------------------------
-Clone this repository and import into Android Studio
-git clone https://github.com/PRCJ/Doggo
+https://drive.google.com/file/d/1oQW2ebMrGKeTv9p0ximWnVLRMyXcDcIR/view?usp=sharing
+
 
 Project Structure
 --------------------------------------------------------------------------------
