@@ -19,22 +19,7 @@ https://drive.google.com/file/d/1oQW2ebMrGKeTv9p0ximWnVLRMyXcDcIR/view?usp=shari
 
 Project Structure
 --------------------------------------------------------------------------------
-App
-    - data
-       -random
-            - RandomApiClient
-            - RandomResponse
-       - RetroInterfaces
-    - utils
-        - App
-        - Constants
-        - Utils
-    - view
-        - MainActivity
-        - SplashActivity
-    - viewmodel
-        - RandomDogViewModel
-
+<img width="185" alt="ps" src="https://user-images.githubusercontent.com/40074224/138231394-f2413375-ba8e-4d28-8619-1e1d01eea90a.PNG">
 Libraries 
 -----------------------------------------------------------------------------------
 Retrofit-
