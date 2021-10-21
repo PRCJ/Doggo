@@ -20,8 +20,11 @@ https://drive.google.com/file/d/1oQW2ebMrGKeTv9p0ximWnVLRMyXcDcIR/view?usp=shari
 Project Structure
 --------------------------------------------------------------------------------
 <img width="185" alt="ps" src="https://user-images.githubusercontent.com/40074224/138231394-f2413375-ba8e-4d28-8619-1e1d01eea90a.PNG">
+
+
 Libraries 
 -----------------------------------------------------------------------------------
+
 Retrofit-
 implementation 'com.squareup.retrofit2:retrofit:2.9.0'
 implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
