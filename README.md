@@ -27,19 +27,26 @@ Libraries
 
 Retrofit-
 implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+
 implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+
 implementation "com.google.code.gson:gson:2.8.6"
+
 implementation "com.squareup.okhttp3:logging-interceptor:4.9.1"
 
 Mvvm-
 implementation "android.arch.lifecycle:extensions:1.1.1"
+
 implementation "android.arch.lifecycle:viewmodel:1.1.1"
+
 kapt 'androidx.lifecycle:lifecycle-compiler:2.3.1'
 
 Piccaso-
+
 implementation 'com.squareup.picasso:picasso:2.71828'
 
 CircularImageview-
+
 implementation 'com.mikhaellopez:circularimageview:4.3.0'
 
 Built with
