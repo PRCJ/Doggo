@@ -1,8 +1,18 @@
 # Doggo
+Description
+------------------------------------------------------------------------------
 This is mobile application which actual users will interact with.
 The application is developed using Modern tools/libraries with UI implementations with Navigation architecture.
-It connects with the Dog API to retrieve data. more detail of api can be found here - https://dog.ceo/dog-api/documentation/random This project a basic example of Retrofit and mvvm
-Installation
+It connects with the Dog API to retrieve data. more detail of api can be found here - https://dog.ceo/dog-api/documentation/random 
+This project a basic example of Retrofit and mvvm
+
+Demo
+-----------------------------------------------------------------------------------
+Splash              |  First Page                 | Next Page    
+:-------------------------:|:-------------------------:|:---------------------------:
+![ss3](https://user-images.githubusercontent.com/40074224/138214963-a9219562-8c52-429d-82d7-d8fcbfe46063.jpg)  |  ![ss2](https://user-images.githubusercontent.com/40074224/138214972-ff8dd696-ed2b-42b0-b642-057a9cf16cfa.jpg) |![ss1](https://user-images.githubusercontent.com/40074224/138214970-0cd81bec-cb2f-4f6b-9b77-73ed0c0165ea.jpg)
+
+
 ------------------------------------------------------------------------------
 Clone this repository and import into Android Studio
 git clone https://github.com/PRCJ/Doggo
